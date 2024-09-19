@@ -7,4 +7,11 @@ body {
 .score {
     display:flex; 
     justify-content: space-around;
+    font-size: 30px;
+    color: blue; 
+}
+
+button#rock, button#paper, button#scissors {
+    padding: 30px;
+    font-size: 40px;
 }
